@@ -4,4 +4,4 @@ To make any algorithm scalable a knowledge of how to implement it in a distribut
 * KNN: A KNN based algorithm is developed in Spark (knnSpark.py) and Hadoop (knn.java)
 * Clustering: Bisecting KMeans algorithm is developed in Spark (bisectingspark.py) and Hadoop (bkm.java)
 
-Configure Spark and Hadoop on the system and run the files on any test data to generate output
+Configure Spark and Hadoop on the system and run the files on any test data with generate ML output
