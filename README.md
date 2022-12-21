@@ -3,3 +3,5 @@ Distributed computing is the future for industrial implementation of complex ML 
 To make any algorithm scalable a knowledge of how to implement it in a distributed system is required. Hence, an implementation of KNN and Bisecting K-Means are developed to serve as example on how to develop algorithms for Spark and Hadoop based distributed system.
 * KNN: A KNN based algorithm is developed in Spark (knnSpark.py) and Hadoop (knn.java)
 * Clustering: Bisecting KMeans algorithm is developed in Spark (bisectingspark.py) and Hadoop (bkm.java)
+
+Configure Spark and Hadoop on the system and run the files on any test data to generate output
